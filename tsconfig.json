@@ -9,12 +9,20 @@
     "experimentalDecorators": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitThis": false,
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
       "webpack-env"
     ],
     "paths": {
+      "*": [
+        "types/*"
+      ],
       "@/*": [
         "src/*"
       ]

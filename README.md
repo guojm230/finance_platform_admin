@@ -1,4 +1,4 @@
-# finance_platform_admin
+# finance_platform
 
 ## Project setup
 ```

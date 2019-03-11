@@ -1,0 +1,8 @@
+.filter-area .filter-item {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.filter-area{
+    margin-bottom: 5px;
+}
